@@ -1,4 +1,4 @@
-# Setup
+# EThereum ICO 
 
 Download: 
 - [NPM](https://www.npmjs.com/get-npm)
